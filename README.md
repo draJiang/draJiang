@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Jiang, an UX designer. I’m passionate about consumer electronics and rock music, and I follow the vision of computer pioneers such as Alan Kay, Theodor Holm Nelson, and Douglas Engelbart.
+I’m Jiang, a UX designer. I’m passionate about consumer electronics and rock music, and I follow the vision of computer pioneers such as Alan Kay, Theodor Holm Nelson, and Douglas Engelbart.
 
 - 🔭 I’m currently working on [Scouter](https://github.com/draJiang/scouter-extension).
 - 🌱 I’m currently learning UI design and JavaScript.
