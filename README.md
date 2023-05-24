@@ -7,7 +7,7 @@ I’m Jiang, an UX designer. I’m passionate about consumer electronics and roc
 
 Personal website: https://notes.dabing.one/
 
-![Twitter Follow](https://img.shields.io/twitter/follow/arui_kisi?style=social) [![article view count](https://img.shields.io/badge/dynamic/json?color=red&label=sspai%20view%20count&query=data.article_view_count&url=https%3A%2F%2Fsspai.com%2Fapi%2Fv1%2Fuser%2Fslug%2Finfo%2Fget%3Fslug%3Djiangzilong)](https://sspai.com/u/jiangzilong/posts)
+[![Twitter Follow](https://img.shields.io/twitter/follow/arui_kisi?style=social)](https://twitter.com/arui_kisi)  [![article view count](https://img.shields.io/badge/dynamic/json?color=red&style=social&label=SSPAI%20view%20count&query=data.article_view_count&url=https%3A%2F%2Fsspai.com%2Fapi%2Fv1%2Fuser%2Fslug%2Finfo%2Fget%3Fslug%3Djiangzilong)](https://sspai.com/u/jiangzilong/posts)
 
 <!--
 **draJiang/draJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
